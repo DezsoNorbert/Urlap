@@ -1,0 +1,25 @@
+table{
+    background-color: rgba(214, 211, 211, 0.856);
+    color: rgb(109, 108, 108);
+}
+
+sup{
+    color: rgb(250, 167, 42);
+}
+
+#Gomb{
+    background-color:orange;
+}
+
+td{
+    height: 1cm;
+    width: cm;
+}
+
+#radio{
+    background-color: orange;
+}
+
+input{
+    size: 5cm;
+}
